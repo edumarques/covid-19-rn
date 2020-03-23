@@ -1,0 +1,40 @@
+#wrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#main {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#footer {
+    font-size: small;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+#last-update {
+    font-size: small;
+    font-style: italic;
+}
+
+#disclaimer {
+    font-size: small;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.icon-social {
+    margin-left: 10px;
+}
