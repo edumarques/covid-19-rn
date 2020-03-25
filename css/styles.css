@@ -21,7 +21,15 @@
 
 #disclaimer {
     font-size: small;
-    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#map-confirmed-cases {
+    margin-bottom: 50px;
+}
+
+.video {
+    text-align: center;
     margin-bottom: 50px;
 }
 
